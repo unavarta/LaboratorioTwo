@@ -1,0 +1,14 @@
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\bin\Debug\netcoreapp3.1\JuegoAdivinar01.exe
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\bin\Debug\netcoreapp3.1\JuegoAdivinar01.deps.json
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\bin\Debug\netcoreapp3.1\JuegoAdivinar01.runtimeconfig.json
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\bin\Debug\netcoreapp3.1\JuegoAdivinar01.runtimeconfig.dev.json
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\bin\Debug\netcoreapp3.1\JuegoAdivinar01.dll
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\bin\Debug\netcoreapp3.1\JuegoAdivinar01.pdb
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.csproj.AssemblyReference.cache
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.AssemblyInfoInputs.cache
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.AssemblyInfo.cs
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.csproj.CoreCompileInputs.cache
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.dll
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.pdb
+C:\Users\Uriel\source\repos\JuegoAdivinar01\JuegoAdivinar01\obj\Debug\netcoreapp3.1\JuegoAdivinar01.genruntimeconfig.cache
